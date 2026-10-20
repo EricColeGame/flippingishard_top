@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Flipping is Hard Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Flipping is Hard guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Flipping is Hard Wiki — Controls, Levels, Codes & Co-op Guides",
+      "description": "Master Flipping is Hard with rotation-only controls, level walkthroughs, NPC challenges, code guides, speedrun tips, and 16-player co-op strategies."
     },
     "hero": {
       "eyebrow": "Hardcore Physics Precision Platformer",
@@ -20,7 +20,7 @@
         "Released Oct 16, 2026",
         "10 Climb Areas",
         "92% Positive Reviews",
-        "32-Player Co-op"
+        "16-Player Co-op"
       ],
       "primaryCta": "Beginner Guide",
       "secondaryCta": "Play on Steam",
@@ -39,295 +39,373 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start in Chill Mode, learn repeatable landings, and fix camera-axis problems before chasing height."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Movement & Controls",
+          "description": "Master rotation-only movement, vibration jumps, wall jumps, and sprint flipping with a focused practice plan."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "All Codes",
+          "description": "Find the Flipping is Hard code list and step-by-step redemption instructions for cosmetic unlocks."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Flipping is Hard."
+          "title": "Final Challenge",
+          "description": "Plan the side-beam launch and Wall Jump B route from the last net to the floating wooden platforms."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Flipping is Hard Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Movement Controls",
+        "All Codes",
+        "Final Challenge"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Flipping is Hard Beginner Guide",
+          "description": "Build repeatable landings, fix camera-axis problems, and use Chill Mode to learn the climb.",
+          "href": "/guide/flipping-is-hard-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "Flipping is Hard Movement Guide",
+          "description": "Learn high jumps, wall jumps, spring timing, sprint flipping, and air control.",
+          "href": "/guide/flipping-is-hard-walkthrough"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Codes",
+          "title": "Flipping is Hard Redeem Codes",
+          "description": "Check the code list and follow the redemption steps for cosmetic unlocks.",
+          "href": "/codes/flipping-is-hard-redeem-codes"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Endgame",
+          "title": "Flipping is Hard Hardest Challenge",
+          "description": "Use the side-beam launch and wall-jump angles to clear the final floating platform route.",
+          "href": "/guide/flipping-is-hard-hardest-challenge"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Multiplayer",
+          "title": "Flipping is Hard Co-op Guide",
+          "description": "Set up a 16-player lobby, split support roles, and use beams and microwaves to help friends.",
+          "href": "/modes/flipping-is-hard-co-op"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Cosmetics",
+          "title": "Flipping is Hard All Skins",
+          "description": "Track phone cases, color variants, and crossover skins unlocked through codes.",
+          "href": "/mechanics/flipping-is-hard-all-skins"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Speedrun",
+          "title": "Flipping is Hard Speedrun Guide",
+          "description": "Compare categories, learn route fundamentals, and use quick restarts and built-in splits.",
+          "href": "/modes/flipping-is-hard-speedrun"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Challenges",
+          "title": "Flipping is Hard All Challenges",
+          "description": "Practice the movement skills and wall-jump routes behind the hardest optional sections.",
+          "href": "/guide/flipping-is-hard-all-challenges"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Completion",
+          "title": "Flipping is Hard Achievements",
+          "description": "Work through the achievement list with grouped counters and focused skill sessions.",
+          "href": "/mechanics/flipping-is-hard-all-achievements"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Flipping is Hard?",
       "paragraphs": [
-        "Flipping is Hard is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Flipping is Hard is a precision physics platformer from Elegant Horse Studios. You control Flippy, a legless phone who rotates, vibration-jumps, and tumbles across ten surreal climb areas on a journey to reunite with Jeff.",
+        "Every jump is built around momentum and timing rather than a walk button. Play solo with optional Chill Mode checkpoints, bring up to 16 friends into online co-op, chase 16 NPC challenges, unlock phone cosmetics and retro mini-games, or use quick restarts and built-in splits for speedruns."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Elegant Horse Studios"
+        },
+        {
+          "label": "Publisher",
+          "value": "Elegant Horse Studios / Dawn Wood Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam"
+        },
+        {
+          "label": "Release Date",
+          "value": "Oct 16, 2026"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Precision Platformer"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Climb Areas",
+          "value": "10"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Co-op Players",
+          "value": "16"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Flipping is Hard Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master rotation-only movement, plan every climb, complete NPC challenges, and unlock Flippy’s customization options with focused Flipping is Hard guides.",
       "modules": [
         {
           "order": 1,
-          "name": "Flipping is Hard Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/flipping-is-hard-codes",
-          "displayType": "code-box",
+          "name": "Flipping is Hard Beginner Guide",
+          "description": "Introduce the core gameplay, rotation-only movement, vibration jumps, basic climbing techniques, and ways to recover from mistakes. Help new players understand the difficulty and learn how to progress through the game’s surreal areas.",
+          "href": "/guide/flipping-is-hard-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Start in Chill Mode and land ten neutral jumps on wide platforms before adding rotation."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Add one short flip at a time and finish with the phone flat before chaining the next hop."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Recenter the camera axis before takeoff so a tilted horizon does not distort launch angle."
+            },
+            {
+              "label": "4",
+              "detail": "Repeat one clean route three times in a row before switching to Hard mode."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/flipping-is-hard-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Flipping is Hard Level Walkthrough",
+      "description": "Provide area-by-area progression tips for the ten surreal climbing areas, highlighting difficult obstacles, safe landing spots, and common causes of falling. Organize walkthrough content around in-game level layouts and player discoveries.",
+          "href": "/guide/flipping-is-hard-walkthrough",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Final net and floating wood: launch from the side beam, then use Wall Jump B across the last gap."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Upper climb sections: angled wall contacts and narrow landings reward consistent Wall Jump B timing."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Mid-run sections: spring jumps and corner jumps add the height or distance needed to clear gaps."
+            },
+            {
+              "label": "C",
+              "detail": "Opening areas: wide platforms let you build neutral jumps and short rotations before the route tightens."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/flipping-is-hard-tier-list",
-          "displayType": "tier-grid",
+          "name": "Flipping is Hard Controls and Movement",
+          "description": "Explain the rotation-based movement system, vibration jumps, controller support, and practical input techniques for precise platforming. Include beginner-friendly movement tips to help players control momentum and avoid unnecessary falls.",
+          "href": "/guide/flipping-is-hard-advanced-tips",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "ROTATE",
+              "detail": "Rotate the phone body to build momentum; Flipping is Hard has no walk input."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "JUMP",
+              "detail": "A short vibration hop gains height; wait out the roughly quarter-second cooldown between presses."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "AIR JUMP",
+              "detail": "Spend a midair jump to extend an arc, recover a miss, or convert a wall touch."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "CAMERA",
+              "detail": "Recenter before takeoff and steer in the air; any solid surface contact resets the jump."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/flipping-is-hard-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Flipping is Hard NPC Challenges",
+      "description": "Cover the sixteen NPC challenges, their objectives, completion strategies, and available rewards. Structure each challenge as a separate entry with practical solutions for each movement test.",
+          "href": "/guide/flipping-is-hard-all-challenges",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Locations",
+              "detail": "Sixteen NPC challenges are spread across the ten climb areas."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Movement",
+              "detail": "Each challenge tests a specific skill such as wall jumps, rotation, or precision landings."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Rewards",
+              "detail": "Challenge clears add cosmetic drip and feed into Flippy’s customization collection."
+            },
+            {
+              "label": "Practice",
+              "detail": "Short focused reps build the consistency needed to finish the optional challenges."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/flipping-is-hard-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Flipping is Hard Co-op Guide",
+          "description": "Explain how online co-op works, how friends can coordinate difficult climbs, and how interactive objects such as beams and microwaves can help players. Include practical teamwork advice and information about proximity chat and multiplayer sessions.",
+          "href": "/modes/flipping-is-hard-co-op",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "16 Players",
+              "detail": "Online co-op supports up to 16 players in the same session."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Beams",
+              "detail": "Shared beams let players create a route or a second chance for a friend."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Microwaves",
+              "detail": "Microwaves are the other support tool for helping teammates reach higher ground."
+            },
+            {
+              "label": "Proximity",
+              "detail": "Proximity chat keeps nearby players in voice range as the group climbs."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/flipping-is-hard-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Flipping is Hard Unlockables and Customization",
+      "description": "Catalog available phone cases, charms, stickers, character customization options, and unlockable rewards. Explain how to obtain each item and how NPC challenge rewards feed into the collection.",
+          "href": "/mechanics/flipping-is-hard-all-skins",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Cases",
+              "detail": "Phone cases change how Flippy looks without affecting movement."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Charms",
+              "detail": "Charms add another cosmetic layer to the phone."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Stickers",
+              "detail": "Stickers round out the phone customization set."
+            },
+            {
+              "label": "Minigames",
+              "detail": "Unlockable classic mobile games add optional side content beyond the climb."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Flipping is Hard Chill Mode and Checkpoints",
+          "description": "Explain Chill Mode, checkpoint behavior, and how a more forgiving playthrough differs from the standard climbing challenge. Help players choose an appropriate approach based on whether they prioritize story progression, exploration, or mastering difficult sections.",
+          "href": "/guide/flipping-is-hard-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chill",
+              "detail": "Optional Chill Mode enables checkpoints and makes the climb more forgiving."
+            },
+            {
+              "label": "Hard",
+              "detail": "Standard play keeps the full precision challenge with no checkpoint safety net."
+            },
+            {
+              "label": "Practice",
+              "detail": "Stay in Chill Mode until one route is clean three times in a row."
+            },
+            {
+              "label": "Reset",
+              "detail": "Quick restarts keep repeated attempts short when a jump goes wrong."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Flipping is Hard Speedrun Guide",
+      "description": "Introduce speedrun-friendly features, quick restarts, built-in splits, and techniques for improving climbing consistency. Compare route categories and share time-saving movement strategies for cleaner runs.",
+          "href": "/modes/flipping-is-hard-speedrun",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Learn the short jump cooldown so buffered presses are not eaten during a route."
+            },
+            {
+              "label": "2",
+              "detail": "Drill neutral high jumps and Wall Jump B until each contact is repeatable."
+            },
+            {
+              "label": "3",
+              "detail": "Use quick restarts and built-in splits to time clean route attempts."
+            },
+            {
+              "label": "4",
+              "detail": "Cut recovery time by steering in the air and chaining solid surface contacts."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Flipping is Hard.",
+      "title": "Flipping is Hard FAQ",
+      "description": "Quick answers to common questions about Flipping is Hard.",
       "items": [
         {
           "question": "What is Flipping is Hard?",
-          "answer": "Flipping is Hard is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Flipping is Hard is a precision physics platformer from Elegant Horse Studios. You control Flippy, a legless phone who rotates and vibration-jumps through ten surreal climb areas to reunite with Jeff."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Does Flipping is Hard support co-op?",
+          "answer": "Yes. Flipping is Hard supports online co-op for up to 16 players, with proximity chat plus shared beams and microwaves for helping teammates climb."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does Flipping is Hard have checkpoints?",
+          "answer": "Flipping is Hard offers an optional Chill Mode with checkpoints enabled. Standard play keeps the full challenge without that safety net."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How long is Flipping is Hard?",
+          "answer": "A Chill Mode run through Flipping is Hard takes roughly 3 to 6 hours. Completionists report spending 20 to 50 hours on challenges, cosmetics, and clean runs."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Flipping is Hard have speedrun tools?",
+          "answer": "Flipping is Hard includes quick restarts and built-in splits, so players can practice routes and time runs without an external timer."
+        },
+        {
+          "question": "How many NPC challenges are in Flipping is Hard?",
+          "answer": "Flipping is Hard includes 16 optional NPC challenges spread across the ten climb areas."
+        },
+        {
+          "question": "Does Flipping is Hard have codes?",
+          "answer": "Flipping is Hard codes include light_blue, dumb_phone, and flippy_the_phone. Open the in-game Codes, Extras, or Redeem menu and enter each string exactly."
         }
       ]
     },
     "finalCta": {
       "title": "Ready to Master Flipping is Hard?",
-      "description": "From your first rotation to the toughest climbs and online co-op runs, our community wiki has free, up-to-date guides for every stage.",
-      "primary": "Read the Beginner Guide",
+      "description": "From your first rotation to the toughest climbs and online co-op runs, our community wiki has free guides for every stage.",
+      "primary": "Read the Flipping is Hard Beginner Guide",
       "secondary": "Play on Steam"
     }
   },
