@@ -1,1 +1,528 @@
-{}
+{
+  "site": {
+    "name": "Flipping is Hard Wiki",
+    "shortName": "Flipping is Hard",
+    "tagline": "ガイド、コントロール、レベル、協力プレイのヒント",
+    "description": "初心者ガイド、操作方法、レベル攻略、NPCチャレンジ、スピードランのヒント、協力プレイ戦略で Flipping is Hard をマスターしましょう。",
+    "legalNotice": "独立したファン Wiki です。Elegant Horse Studios および Dawn Wood Games とは提携していません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "codes": "コード",
+    "characters": "キャラクター",
+    "mechanics": "メカニクス",
+    "modes": "モード",
+    "platforms": "プラットフォーム",
+    "community": "コミュニティ",
+    "menu": "メニュー",
+    "toggleTheme": "テーマの切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "Flipping is Hard Wiki — コントロール、レベル、コード、協力ガイド",
+      "description": "回転だけの操作、レベル攻略、NPC チャレンジ、コードガイド、スピードランのヒント、16 人協力プレイ戦略で Flipping is Hard をマスターしましょう。"
+    },
+    "hero": {
+      "eyebrow": "ハードコア物理学精密プラットフォーマー",
+      "title": "Flipping is Hard Wiki",
+      "description": "回転だけの移動をマスターし、超現実的なレベルを登り、過酷な落下を乗り越え、NPC チャレンジをクリアし、Flippy をカスタマイズして、ソロでも友達とのオンライン協力プレイでも楽しめます。",
+      "stats": [
+        "2026 年 10 月 16 日リリース",
+        "10 のクライムエリア",
+        "92% 肯定的なレビュー",
+        "16 プレイヤー協力プレイ"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steam でプレイ",
+      "tertiaryCta": "アクティブコード",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新のアップデート",
+      "browse": "すべてのガイドを参照する",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始めましょう",
+      "title": "Flipping is Hard の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "Chill Mode から始めて、再現可能な着陸を学び、高さを追い求める前にカメラ軸の問題を修正してください。"
+        },
+        {
+          "number": "2",
+          "title": "動きとコントロール",
+          "description": "集中的な練習プランで、回転のみの動き、振動ジャンプ、壁ジャンプ、スプリントフリップをマスターしましょう。"
+        },
+        {
+          "number": "3",
+          "title": "すべてのコード",
+          "description": "Flipping is Hard のコード一覧と、コスメティックを解除するための段階的な引き換え手順を確認できます。"
+        },
+        {
+          "number": "4",
+          "title": "ファイナルチャレンジ",
+          "description": "サイドビームの発射と、最後のネットから浮遊木製プラットフォームまでの Wall Jump B ルートを計画します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気のページ",
+      "title": "トレンドの Flipping is Hard ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "移動制御",
+        "すべてのコード",
+        "ファイナルチャレンジ"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "Flipping is Hard 初心者ガイド",
+          "description": "再現可能な着陸を構築し、カメラ軸の問題を修正し、Chill Mode を使用して登り方を学習します。",
+          "href": "/guide/flipping-is-hard-beginner-guide"
+        },
+        {
+          "badge": "コア",
+          "title": "Flipping is Hard 移動ガイド",
+          "description": "ハイジャンプ、ウォールジャンプ、スプリングタイミング、スプリントフリッピング、エアコントロールを学びましょう。",
+          "href": "/guide/flipping-is-hard-walkthrough"
+        },
+        {
+          "badge": "コード",
+          "title": "Flipping is Hard 引き換えコード",
+          "description": "コードリストを確認し、表面的なロック解除の引き換え手順に従ってください。",
+          "href": "/codes/flipping-is-hard-redeem-codes"
+        },
+        {
+          "badge": "エンドゲーム",
+          "title": "Flipping is Hard 最も困難な挑戦",
+          "description": "サイドビームの発射と壁ジャンプの角度を利用して、最後の浮遊プラットフォームのルートをクリアします。",
+          "href": "/guide/flipping-is-hard-hardest-challenge"
+        },
+        {
+          "badge": "マルチプレイヤー",
+          "title": "Flipping is Hard 協力ガイド",
+          "description": "16 人のプレイヤーのロビーを設定し、サポートの役割を分担し、ビームや電子レンジを使って友達を助けます。",
+          "href": "/modes/flipping-is-hard-co-op"
+        },
+        {
+          "badge": "化粧品",
+          "title": "Flipping is Hard すべてのスキン",
+          "description": "コードを通じてロック解除された電話ケース、カラーバリエーション、クロスオーバースキンを追跡します。",
+          "href": "/mechanics/flipping-is-hard-all-skins"
+        },
+        {
+          "badge": "スピードラン",
+          "title": "Flipping is Hard スピードラン ガイド",
+          "description": "カテゴリを比較し、ルートの基本を学び、クイック リスタートと組み込みの分割を使用します。",
+          "href": "/modes/flipping-is-hard-speedrun"
+        },
+        {
+          "badge": "課題",
+          "title": "Flipping is Hard すべてのチャレンジ",
+          "description": "最も難しいオプションセクションの後ろで、移動スキルと壁ジャンプルートを練習します。",
+          "href": "/guide/flipping-is-hard-all-challenges"
+        },
+        {
+          "badge": "完了",
+          "title": "Flipping is Hard 実績",
+          "description": "グループ化されたカウンターと集中的なスキル セッションを使用して、実績リストを処理します。",
+          "href": "/mechanics/flipping-is-hard-all-achievements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Flipping is Hardとは何ですか?",
+      "paragraphs": [
+        "Flipping is Hard は、Elegant Horse Studios の高精度物理プラットフォーマーです。あなたは Flippy という足のない電話を操作し、Jeff と再会する旅の途中で 10 か所の超現実的な登山エリアを回転、振動ジャンプ、転落しながら移動します。",
+        "すべてのジャンプは歩行ボタンではなく、勢いとタイミングで決まります。Chill Mode のチェックポイントを使ったソロプレイ、最大 16 人のオンライン協力プレイ、16 個の NPC チャレンジ、電話のコスメティックやレトロなミニゲームの解除、スピードラン用のクイックリスタートや内蔵スプリットなどを楽しめます。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Elegant Horse Studios"
+        },
+        {
+          "label": "販売元",
+          "value": "Elegant Horse Studios / Dawn Wood Games"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Steam"
+        },
+        {
+          "label": "発売日",
+          "value": "2026 年 10 月 16 日"
+        },
+        {
+          "label": "ジャンル",
+          "value": "精密プラットフォーマー"
+        },
+        {
+          "label": "クライムエリア",
+          "value": "10"
+        },
+        {
+          "label": "協力プレイプレイヤー",
+          "value": "16"
+        }
+      ],
+      "cta": "すべてのガイドを調べる"
+    },
+    "explore": {
+      "title": "Flipping is Hard Wiki を探索",
+      "description": "回転だけの移動をマスターし、すべての登攀を計画し、NPC チャレンジをクリアし、Flipping is Hard のガイドで Flippy のカスタマイズを解除しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Flipping is Hard 初心者ガイド",
+          "description": "核となるゲームプレイ、回転のみの移動、振動ジャンプ、基本的な登りテクニック、ミスからのリカバリー方法を紹介します。新しいプレイヤーがその難しさを理解し、ゲームの超現実的な領域を進む方法を学ぶのを助けます。",
+          "href": "/guide/flipping-is-hard-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Chill Mode から開始し、回転を追加する前に、広いプラットフォームで 10 回のニュートラル ジャンプを着地させます。"
+            },
+            {
+              "label": "2",
+              "detail": "一度に 1 つの短いフリップを追加し、次のホップをチェーンする前に電話機をフラットにした状態で終了します。"
+            },
+            {
+              "label": "3",
+              "detail": "離陸前にカメラの軸を中心に戻し、地平線が傾いても発射角度が歪まないようにします。"
+            },
+            {
+              "label": "4",
+              "detail": "ハード モードに切り替える前に、1 つのクリーン ルートを 3 回連続で繰り返します。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Flipping is Hard レベルのウォークスルー",
+          "description": "10 の超現実的なクライミング エリアについてエリアごとに進行のヒントを提供し、困難な障害物、安全な着地スポット、一般的な転倒の原因を強調します。ゲーム内レベルのレイアウトとプレイヤーの発見に基づいてウォークスルー コンテンツを編成します。",
+          "href": "/guide/flipping-is-hard-walkthrough",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "最終ネットとフローティングウッド: サイドビームから発射し、Wall Jump B を使用して最後のギャップを越えます。"
+            },
+            {
+              "label": "A",
+              "detail": "上部の登りセクション: 角度のある壁との接触と狭い着地により、Wall Jump B のタイミングが一貫して得られます。"
+            },
+            {
+              "label": "B",
+              "detail": "ミッドランセクション: スプリングジャンプとコーナージャンプは、ギャップを埋めるために必要な高さまたは距離を追加します。"
+            },
+            {
+              "label": "C",
+              "detail": "オープニングエリア: 広いプラットフォームにより、ルートが緊密になる前にニュートラルなジャンプや短い回転を構築できます。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Flipping is Hard コントロールと動き",
+          "description": "回転ベースの移動システム、振動ジャンプ、コントローラーのサポート、正確なプラットフォーミングのための実践的な入力テクニックについて説明します。プレーヤーが勢いをコントロールし、不必要な転倒を避けるのに役立つ、初心者向けの動きのヒントが含まれています。",
+          "href": "/guide/flipping-is-hard-advanced-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "回転する",
+              "detail": "携帯電話本体を回転させて勢いをつけます。 Flipping is Hard には歩行入力がありません。"
+            },
+            {
+              "label": "ジャンプ",
+              "detail": "短い振動ホップは高さを獲得します。押すまでの間に約 4 分の 1 秒のクールダウンがかかるまで待ちます。"
+            },
+            {
+              "label": "エアジャンプ",
+              "detail": "空中ジャンプを使って弧を伸ばしたり、ミスを回復したり、壁タッチを変換したりします。"
+            },
+            {
+              "label": "カメラ",
+              "detail": "離陸前に中心を戻し、空中で操縦します。固体表面に接触するとジャンプがリセットされます。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Flipping is Hard NPC の課題",
+          "description": "16 個の NPC チャレンジ、その目的、完了戦略、および利用可能な報酬について説明します。各課題を、動作テストごとに実践的な解決策を含む個別のエントリとして構成します。",
+          "href": "/guide/flipping-is-hard-all-challenges",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "所在地",
+              "detail": "16 の NPC チャレンジが 10 の登山エリアに広がっています。"
+            },
+            {
+              "label": "動き",
+              "detail": "各チャレンジでは、壁ジャンプ、回転、正確な着地などの特定のスキルがテストされます。"
+            },
+            {
+              "label": "報酬",
+              "detail": "チャレンジをクリアすると、化粧品のドリップとフィードが Flippy’s カスタマイズ コレクションに追加されます。"
+            },
+            {
+              "label": "練習する",
+              "detail": "短く集中した担当者は、オプションの課題を完了するために必要な一貫性を構築します。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Flipping is Hard 協力ガイド",
+          "description": "オンライン協力プレイがどのように機能するか、友達が困難な登りをどのように調整できるか、ビームや電子レンジなどのインタラクティブなオブジェクトがどのようにプレイヤーを助けることができるかを説明します。実践的なチームワークに関するアドバイスや、近接チャットやマルチプレイヤー セッションに関する情報が含まれます。",
+          "href": "/modes/flipping-is-hard-co-op",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "16人のプレイヤー",
+              "detail": "オンライン協力プレイでは、同じセッションで最大 16 人のプレイヤーがサポートされます。"
+            },
+            {
+              "label": "梁",
+              "detail": "共有ビームを使うと、友達のためのルートやセカンドチャンスを作れます。"
+            },
+            {
+              "label": "電子レンジ",
+              "detail": "電子レンジは、チームメイトがより高みに到達するのを助けるもう 1 つのサポート ツールです。"
+            },
+            {
+              "label": "近接性",
+              "detail": "近接チャットにより、グループが登っている間、近くのプレイヤーが声の範囲内に留まります。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Flipping is Hard ロック解除可能要素とカスタマイズ",
+          "description": "利用可能な電話ケース、チャーム、ステッカー、キャラクターのカスタマイズ オプション、ロック解除可能な報酬をカタログ化します。各アイテムの入手方法と、NPC チャレンジの報酬がどのようにコレクションに反映されるかを説明します。",
+          "href": "/mechanics/flipping-is-hard-all-skins",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "事例",
+              "detail": "電話ケースは、動きに影響を与えることなく、Flippy の外観を変更します。"
+            },
+            {
+              "label": "チャーム",
+              "detail": "チャームは電話機に別の装飾層を追加します。"
+            },
+            {
+              "label": "ステッカー",
+              "detail": "ステッカーは電話のカスタマイズ セットを完成させます。"
+            },
+            {
+              "label": "ミニゲーム",
+              "detail": "ロックを解除できるクラシックなモバイル ゲームには、登りを超えたオプションのサイド コンテンツが追加されます。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Flipping is Hard Chill Mode とチェックポイント",
+          "description": "Chill Mode、チェックポイントの動作、より寛容なプレイスルーが標準的な登山チャレンジとどのように異なるかを説明します。プレイヤーがストーリーの進行、探索、または難しいセクションの習得のいずれを優先するかに基づいて、適切なアプローチを選択できるようにします。",
+          "href": "/guide/flipping-is-hard-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "チル",
+              "detail": "オプションの Chill Mode を使用すると、チェックポイントが有効になり、登りがより寛容になります。"
+            },
+            {
+              "label": "難しい",
+              "detail": "標準プレイでは、チェックポイントのセーフティネットなしで完全な精度チャレンジが維持されます。"
+            },
+            {
+              "label": "練習する",
+              "detail": "1 つのルートが 3 回連続でクリーンになるまで Chill Mode に留まります。"
+            },
+            {
+              "label": "リセット",
+              "detail": "ジャンプが失敗した場合でも、クイック リスタートにより、繰り返しの試行が短くなります。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Flipping is Hard スピードラン ガイド",
+          "description": "スピードラン向けの機能、クイックリスタート、内蔵スプリット、登攀の安定性を高めるテクニックを紹介します。ルートカテゴリを比較し、よりクリーンなランにつながる時短移動戦略を共有します。",
+          "href": "/modes/flipping-is-hard-speedrun",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ルート中にバッファリングされたプレスが食われないように、ショートジャンプのクールダウンを学びましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "それぞれの接触が再現できるようになるまで、ニュートラル ハイ ジャンプと Wall Jump B を練習します。"
+            },
+            {
+              "label": "3",
+              "detail": "クイック再起動と組み込みの分割を使用して、クリーンなルートの試行の時間を調整します。"
+            },
+            {
+              "label": "4",
+              "detail": "空中で操縦し、固体表面接触を連鎖させることで回復時間を短縮します。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Flipping is Hard FAQ",
+      "description": "Flipping is Hard に関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Flipping is Hardとは何ですか?",
+          "answer": "Flipping is Hard は、Elegant Horse Studios の高精度物理プラットフォーマーです。あなたは Flippy という足のない電話を操作し、10 か所の超現実的な登攀エリアを回転して振動ジャンプして Jeff と再会します。"
+        },
+        {
+          "question": "Flipping is Hard は協力プレイをサポートしていますか?",
+          "answer": "はい。 Flipping is Hard は、最大 16 人のプレイヤーのオンライン協力プレイをサポートしており、近接チャットに加えて、チームメイトの登頂を支援するための共有ビームと電子レンジを備えています。"
+        },
+        {
+          "question": "Flipping is Hard にはチェックポイントがありますか?",
+          "answer": "Flipping is Hard は、チェックポイントを有効にしたオプションの Chill Mode を提供します。標準プレイでは、セーフティネットなしでフルチャレンジが続けられます。"
+        },
+        {
+          "question": "Flipping is Hard のプレイ時間はどれくらいですか？",
+          "answer": "Chill Mode でのクリアには約 3～6 時間かかります。やり込み派はチャレンジ、コスメティック、クリーンランに 20～50 時間を費やしたと報告しています。"
+        },
+        {
+          "question": "Flipping is Hard にはスピードラン ツールがありますか?",
+          "answer": "Flipping is Hard にはクイックリスタートと組み込みのスプリットが含まれているため、プレイヤーは外部タイマーなしでルートやタイムランを練習できます。"
+        },
+        {
+          "question": "Flipping is Hard には NPC チャレンジがいくつありますか？",
+          "answer": "Flipping is Hard には、10 の登攀エリアに分散した 16 個の任意 NPC チャレンジがあります。"
+        },
+        {
+          "question": "Flipping is Hard にはコードがありますか?",
+          "answer": "Flipping is Hard コードには、light_blue、dumb_phone、および flippy_the_phone が含まれます。ゲーム内のコード、エクストラ、または引き換えメニューを開き、各文字列を正確に入力します。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Flipping is Hard をマスターする準備はできましたか?",
+      "description": "最初のローテーションから最も厳しい登りやオンライン協力プレイまで、コミュニティ Wiki にはあらゆるステージの無料ガイドが用意されています。",
+      "primary": "Flipping is Hard 初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Flipping is Hard ガイド",
+    "overviewDescription": "Flipping is Hard のすべてのエリアを登るための初心者向けのウォークスルー、移動ドリル、チャレンジ ルート、および高度なヒント。"
+  },
+  "codes": {
+    "overviewTitle": "Flipping is Hard コード",
+    "overviewDescription": "有効な Flipping is Hard コード リストを確認し、ゲーム内の引き換え手順に従って利用可能な装飾品の報酬を獲得してください。"
+  },
+  "characters": {
+    "overviewTitle": "Flipping is Hard キャラクター",
+    "overviewDescription": "Flippy、ナレーター、Finn、および Flipping is Hard の開発者を紹介し、キャラクターに関する一般的な質問への回答を紹介します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Flipping is Hard メカニクス",
+    "overviewDescription": "ウォール ジャンプ、コイン、実績、スキン、シークレット、ストリーマー モード、およびすべての Flipping is Hard ランを形作るシステムについて学びましょう。"
+  },
+  "modes": {
+    "overviewTitle": "Flipping is Hard ゲームモード",
+    "overviewDescription": "Flipping is Hard 全体の協力プレイ、マルチプレイヤー、スピードラン、Gamedude チャレンジ、プレイヤー数の詳細を比較します。"
+  },
+  "platforms": {
+    "overviewTitle": "Flipping is Hard 対応プラットフォーム",
+    "overviewDescription": "Flipping is Hard のリリース日、価格、Steam、PS5、Xbox、およびデモのダウンロード情報を 1 か所で検索できます。"
+  },
+  "community": {
+    "overviewTitle": "Flipping is Hard コミュニティ",
+    "overviewDescription": "Flipping is Hard コミュニティ ハブ、世界記録、Reddit および Discord のディスカッション、および終了報道をフォローしてください。"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "アクティブコード",
+    "noActiveCodes": "現在有効なコードはありません",
+    "checkBackSoon": "新しいコードは近日公開予定です",
+    "updated": "更新されました",
+    "viewAllCodes": "すべてのコードを表示",
+    "playOnRoblox": "Robloxでプレイする",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだ利用可能なガイドはありません。すぐにまたチェックしてください!"
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのガイドは移動したか、まだ追加されていない可能性があります。",
+    "browseGuides": "ガイドを見る"
+  },
+  "legal": {
+    "about": {
+      "title": "概要",
+      "paragraphs": [
+        "Flipping is Hard Wiki は、新規プレイヤーにも経験者にも役立つ、回転操作、レベルルート、NPC チャレンジ、スピードラン、カスタマイズ、協力プレイの知識を扱う独立したファン制作のガイドハブです。",
+        "Flipping is Hard は、Elegant Horse Studios によって開発され、2026 年 10 月 16 日に Steam でリリースされた、ハードコアな物理精密プラットフォーマーです。私たちのガイドは、その回転のみの動き、10 の登攀エリア、最大 16 人のプレイヤー向けのオンライン協力プレイに焦点を当てています。",
+        "私たちは Elegant Horse Studios、Dawn Wood Games、Steam、または公式 Flipping is Hard チャンネルとは提携していません。"
+      ]
+    },
+    "privacyPolicy": {
+      "title": "プライバシーポリシー",
+      "paragraphs": [
+        "この独立したファン Wiki は、Flipping is Hard のゲーム情報ガイドを提供します。当社は Steam アカウントの資格情報、パスワード、または個人的な支払い情報を要求しません。",
+        "基本的な分析、広告、およびホスティングプロバイダーは、デバイスの種類、ブラウザー、おおよその地域、訪問したページなどの標準的な技術情報を処理する場合があります。",
+        "外部リンクは、公式 Steam ストア、Steam コミュニティ、YouTube、またはその他のサードパーティ サービスにリンクする場合があります。これらのサービスは、独自のプライバシー ポリシーによって管理されます。",
+        "当社は個人情報を販売しません。プライバシーに関する質問がある場合は、フッターに表示されているサポート電子メールを使用してサイト運営者にお問い合わせください。"
+      ]
+    },
+    "termsOfService": {
+      "title": "利用規約",
+      "paragraphs": [
+        "このサイトは、Flipping is Hard の独立したファン作成のガイド ハブです。コンテンツは情報提供および娯楽の目的でのみ提供されます。",
+        "ゲームシステム、コントロール、レベル、チャレンジ、アップデートの詳細は予告なく変更される場合があります。重要な情報は常にゲーム内または公式 Steam チャネルを通じて確認してください。",
+        "このサイトを使用すると、悪用したり、不正アクセスを試みたり、このファン Wiki を Elegant Horse Studios、Dawn Wood Games、または Steam の公式コンテンツとして提示したりしないことに同意するものとします。"
+      ]
+    },
+    "copyright": {
+      "title": "著作権",
+      "paragraphs": [
+        "Flipping is Hard および関連メディアは Elegant Horse Studios、Dawn Wood Games およびそれぞれの所有者に属します。",
+        "これは、ガイドと情報提供を目的として作成された独立した非公式ファン Wiki です。",
+        "ゲーム名、ロゴ、スクリーンショット、トレーラー素材は、それぞれの権利所有者の財産です。ここに表示されるコンテンツに対する権利を所有しており、懸念がある場合は、フッターにあるサポート電子メールを使用してサイト運営者にお問い合わせください。"
+      ]
+    }
+  },
+  "footer": {
+    "aboutTitle": "Flipping is Hard Wiki",
+    "about": "Flipping is Hard Wiki は、新規・経験者問わず、回転操作、レベルルート、NPC チャレンジ、スピードラン、オンライン協力プレイを扱うファン制作の独立ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Flipping is Hard Wiki。Elegant Horse Studios および Dawn Wood Games とは提携していません。",
+    "description": "Steam のハードコアな回転ベース物理プラットフォーマー。最大 16 人のソロおよびオンライン協力プレイに対応。",
+    "playGame": "Steam で Flipping is Hard をプレイ",
+    "officialDiscord": "Steam コミュニティ",
+    "officialYoutube": "公式トレーラー",
+    "vvBuilder": "Steam ストア",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "レースガイド",
+    "bossGuides": "ボスガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

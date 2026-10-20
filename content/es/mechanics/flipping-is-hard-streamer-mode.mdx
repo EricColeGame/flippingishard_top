@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Modo streamer de Flipping is Hard: configuración segura para streams cooperativos de 32 jugadores",
+  title: "Modo streamer de Flipping is Hard: configuración segura para streams cooperativos de 16 jugadores",
   description: "¿No hay modo streamer integrado en Flipping is Hard? Crea el tuyo: seguridad del chat de proximidad, enrutamiento de audio, consejos de overlay y una lista de verificación previa al stream.",
   category: "mechanics",
   date: "2026-10-20",
@@ -22,7 +22,7 @@ Así que respondamos primero a la pregunta obvia. Según la descripción oficial
 
 ## Por qué hacer stream de Flipping is Hard requiere cuidado extra
 
-La mayoría de los plataformas castigadores son experiencias en solitario. Flipping is Hard no lo es. El juego admite cooperativo en línea para hasta 32 jugadores, con chat de voz de proximidad incluido, y esa combinación es la razón más importante por la que una rutina del **modo streamer de Flipping is Hard** importa.
+La mayoría de los plataformas castigadores son experiencias en solitario. Flipping is Hard no lo es. El juego admite cooperativo en línea para hasta 16 jugadores, con chat de voz de proximidad incluido, y esa combinación es la razón más importante por la que una rutina del **modo streamer de Flipping is Hard** importa.
 
 Piensa en lo que realmente significa el chat de proximidad en una emisión en vivo: cualquiera que esté cerca de Flippy puede ser escuchado por toda tu audiencia en tiempo real. Eso son hasta otros 31 micrófonos alimentando tu stream. Algunas de esas personas son tus amigos. Otras son desconocidos de un lobby público. Ninguno de ellos aceptó necesariamente ser emitido, y ninguno puede dar su consentimiento en los dos segundos previos a decir algo vergonzoso.
 
@@ -33,7 +33,7 @@ También está el problema del volumen. Flipping is Hard es, por diseño, un jue
 | Voces sin consentimiento | Chat de proximidad en cooperativo | Pulsar para hablar, lobbies solo con amigos, atajo de silencio |
 | Distorsión de audio | Reacciones de rabia ante grandes caídas | Compresor + limitador en la pista del micrófono |
 | Spoilers para espectadores | Momentos de la historia del narrador, mensajes de voz | Advertencias verbales de spoilers, segmentos por capítulos |
-| Avalancha de backseating | El caos de 32 jugadores es caos que se ve bien | Reglas del chat y modo lento durante las escaladas |
+| Avalancha de backseating | El caos de 16 jugadores es caos que se ve bien | Reglas del chat y modo lento durante las escaladas |
 | Captura accidental del escritorio | Alt-tab hacia Discord | Solo fuente de captura del juego, nunca captura de pantalla completa |
 
 ## Crea tu propio modo streamer de Flipping is Hard: paso a paso
@@ -70,14 +70,14 @@ Un **modo streamer de Flipping is Hard** no se trata solo de silenciar a la gent
 | Cronómetro de splits | Sí | Integrado y apto para speedrun |
 | Indicador de actividad del chat de voz | Opcional | Útil, pero puede insinuar quién está hablando |
 | Webcam a pantalla completa | Opcional | Considera un marco más pequeño durante el cooperativo caótico |
-| Overlay del chat | Sí | Esencial para lobbies de 32 jugadores |
+| Overlay del chat | Sí | Esencial para lobbies de 16 jugadores |
 | Vista previa del escritorio | Nunca | El elemento de mayor riesgo en cualquier stream |
 
 ## Modo streamer de Flipping is Hard para cooperativo y speedruns
 
 Las dos audiencias de este juego quieren cosas distintas, y tu modo streamer debería adaptarse en consecuencia.
 
-**Los streams cooperativos** viven o mueren por el chat de voz. El caos de 32 jugadores intentando ayudarse unos a otros con Beams y Microwaves — o deliberadamente no ayudando — es el contenido. En lugar de silenciar a todos, selecciona: juega con un grupo conocido, mantén un atajo de silencio listo para los desconocidos y apóyate en el chat de proximidad como un recurso cómico más que como un peligro. Los informes de experiencia de los jugadores describen sistemáticamente el caos cooperativo como la parte más divertida del juego, así que no lo esterilices — solo contrólalo.
+**Los streams cooperativos** viven o mueren por el chat de voz. El caos de 16 jugadores intentando ayudarse unos a otros con Beams y Microwaves — o deliberadamente no ayudando — es el contenido. En lugar de silenciar a todos, selecciona: juega con un grupo conocido, mantén un atajo de silencio listo para los desconocidos y apóyate en el chat de proximidad como un recurso cómico más que como un peligro. Los informes de experiencia de los jugadores describen sistemáticamente el caos cooperativo como la parte más divertida del juego, así que no lo esterilices — solo contrólalo.
 
 **Los streams de speedrun** necesitan visuales limpios y reinicios repetibles. Los reinicios rápidos y los splits integrados ya están ahí; tu trabajo es mantener el overlay legible y tu cadena de micrófono estable a lo largo de cientos de intentos. Un limitador importa más aquí que en cualquier otro lugar, porque la frustración se acumula a lo largo de una sesión de dos horas.
 
@@ -87,7 +87,7 @@ Las dos audiencias de este juego quieren cosas distintas, y tu modo streamer deb
 |---|---|---|---|
 | Modo Chill en solitario | Ninguno | Bajo | Captura del juego, limitador de micrófono, overlay simple |
 | Cooperativo solo con amigos | Bajo | Medio | Pulsar para hablar, pistas separadas, atajo de silencio |
-| Lobby público de 32 jugadores | Alto | Alto | Retardo, atajo de silencio, preferencia por solo amigos |
+| Lobby público de 16 jugadores | Alto | Alto | Retardo, atajo de silencio, preferencia por solo amigos |
 | Intentos de speedrun | Ninguno | Alto | Limitador, overlay compacto, cronómetro de splits |
 
 ## Solución de problemas comunes del modo streamer
@@ -99,7 +99,7 @@ Las dos audiencias de este juego quieren cosas distintas, y tu modo streamer deb
 | El audio del juego ahoga el comentario | Una única pista combinada | Separa juego y micrófono en pistas distintas |
 | Los splits se superponen a las notificaciones | Colocación del overlay | Mueve los splits a la esquina opuesta |
 | El VOD recibe advertencias o se silencia | Audio de fondo en la habitación | Solo auriculares, sin altavoces |
-| El stream se entrecorta durante el cooperativo | Sobrecarga de codificación con 32 jugadores | Baja la resolución o usa codificación por hardware |
+| El stream se entrecorta durante el cooperativo | Sobrecarga de codificación con 16 jugadores | Baja la resolución o usa codificación por hardware |
 
 Si un problema persiste tras estas soluciones, el hub de la comunidad y el Discord de los desarrolladores son los lugares más rápidos para confirmar si un parche cambió el comportamiento del chat de voz. Los informes de la comunidad suelen ir uno o dos días por delante de cualquier documentación oficial.
 
@@ -111,7 +111,7 @@ No uno que esté documentado en la página de la tienda ni en las notas de parch
 **¿Pueden mis espectadores oír a otros jugadores en cooperativo?**
 Sí, si el chat de voz de proximidad está activo y tu micrófono o el audio del juego lo está capturando. Usa pulsar para hablar y pistas de audio separadas para controlar exactamente qué llega a tu audiencia.
 
-**¿Es seguro hacer stream de lobbies públicos de 32 jugadores?**
+**¿Es seguro hacer stream de lobbies públicos de 16 jugadores?**
 Es manejable pero de mayor riesgo. Añade un retardo de stream, mantén un atajo de silencio bajo el dedo y avisa a tu lobby de que estás en vivo antes de que empiece la sesión.
 
 **¿Cuál es el ajuste más importante?**

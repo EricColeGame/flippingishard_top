@@ -1,1 +1,528 @@
-{}
+{
+  "site": {
+    "name": "Flipping is Hard Wiki",
+    "shortName": "Flipping is Hard",
+    "tagline": "Anleitungen, Steuerelemente, Levels und Koop-Tipps",
+    "description": "Meistere Flipping is Hard mit Einsteigerguides, Steuerung, Level-Komplettlösungen, NPC-Herausforderungen, Speedrun-Tipps und Koop-Strategien.",
+    "legalNotice": "Unabhängiges Fan-Wiki. Nicht mit Elegant Horse Studios oder Dawn Wood Games verbunden."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "codes": "Codes",
+    "characters": "Charaktere",
+    "mechanics": "Mechaniken",
+    "modes": "Modi",
+    "platforms": "Plattformen",
+    "community": "Community",
+    "menu": "Menü",
+    "toggleTheme": "Thema umschalten"
+  },
+  "home": {
+    "meta": {
+      "title": "Flipping is Hard Wiki – Steuerung, Level, Codes und Koop-Anleitungen",
+      "description": "Meistere Flipping is Hard mit reinen Rotationssteuerungen, Level-Komplettlösungen, NPC-Herausforderungen, Code-Guides, Speedrun-Tipps und Koop-Strategien für 16 Spieler."
+    },
+    "hero": {
+      "eyebrow": "Hardcore-Physik-Präzisionsplattformer",
+      "title": "Flipping is Hard Wiki",
+      "description": "Meistere reine Rotationsbewegungen, klettere durch surreale Level, überwinde brutale Stürze, schließe NPC-Herausforderungen ab, passe Flippy an und spiele allein oder online mit Freunden.",
+      "stats": [
+        "Veröffentlicht am 16. Oktober 2026",
+        "10 Klettergebiete",
+        "92 % positive Bewertungen",
+        "16-Spieler-Koop"
+      ],
+      "primaryCta": "Anfängerleitfaden",
+      "secondaryCta": "Spielen Sie auf Steam",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Durchsuchen Sie alle Leitfäden",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Beginnen Sie hier",
+      "title": "Deine Reise durch Flipping is Hard",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerleitfaden",
+          "description": "Beginnen Sie in Chill Mode, lernen Sie wiederholbare Landungen und beheben Sie Kameraachsenprobleme, bevor Sie der Höhe nachjagen."
+        },
+        {
+          "number": "2",
+          "title": "Bewegung und Steuerung",
+          "description": "Meistern Sie reine Rotationsbewegungen, Vibrationssprünge, Wandsprünge und Sprintflips mit einem gezielten Übungsplan."
+        },
+        {
+          "number": "3",
+          "title": "Alle Codes",
+          "description": "Hier findest du die Codeliste von Flipping is Hard und eine Schritt-für-Schritt-Anleitung zum Einlösen kosmetischer Freischaltungen."
+        },
+        {
+          "number": "4",
+          "title": "Letzte Herausforderung",
+          "description": "Planen Sie den Seitenbalkenstart und die Wall Jump B Route vom letzten Netz zu den schwimmenden Holzplattformen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Angesagte Flipping is Hard Leitfäden",
+      "quickLinks": [
+        "Anfängerleitfaden",
+        "Bewegungskontrollen",
+        "Alle Codes",
+        "Letzte Herausforderung"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Flipping is Hard Anfängerleitfaden",
+          "description": "Erstellen Sie wiederholbare Landungen, beheben Sie Kameraachsenprobleme und verwenden Sie Chill Mode, um den Steigflug zu erlernen.",
+          "href": "/guide/flipping-is-hard-beginner-guide"
+        },
+        {
+          "badge": "Kern",
+          "title": "Flipping is Hard Bewegungsanleitung",
+          "description": "Lernen Sie Hochsprünge, Wandsprünge, Feder-Timing, Sprint-Flipping und Luftkontrolle.",
+          "href": "/guide/flipping-is-hard-walkthrough"
+        },
+        {
+          "badge": "Codes",
+          "title": "Flipping is Hard Codes einlösen",
+          "description": "Überprüfen Sie die Codeliste und befolgen Sie die Einlösungsschritte für kosmetische Freischaltungen.",
+          "href": "/codes/flipping-is-hard-redeem-codes"
+        },
+        {
+          "badge": "Endspiel",
+          "title": "Flipping is Hard Schwierigste Herausforderung",
+          "description": "Nutzen Sie die seitlichen Start- und Wandsprungwinkel, um die endgültige Route der schwimmenden Plattform freizumachen.",
+          "href": "/guide/flipping-is-hard-hardest-challenge"
+        },
+        {
+          "badge": "Mehrspieler",
+          "title": "Flipping is Hard Koop-Leitfaden",
+          "description": "Richten Sie eine Lobby für 16 Spieler ein, teilen Sie die Support-Rollen auf und nutzen Sie Strahlen und Mikrowellen, um Freunden zu helfen.",
+          "href": "/modes/flipping-is-hard-co-op"
+        },
+        {
+          "badge": "Kosmetika",
+          "title": "Flipping is Hard Alle Skins",
+          "description": "Verfolgen Sie durch Codes freigeschaltete Handyhüllen, Farbvarianten und Crossover-Skins.",
+          "href": "/mechanics/flipping-is-hard-all-skins"
+        },
+        {
+          "badge": "Speedrun",
+          "title": "Flipping is Hard Speedrun-Anleitung",
+          "description": "Vergleichen Sie Kategorien, lernen Sie Routengrundlagen kennen und nutzen Sie schnelle Neustarts und integrierte Teilungen.",
+          "href": "/modes/flipping-is-hard-speedrun"
+        },
+        {
+          "badge": "Herausforderungen",
+          "title": "Flipping is Hard Alle Herausforderungen",
+          "description": "Üben Sie die Bewegungsfertigkeiten und Wandsprungrouten hinter den schwierigsten optionalen Abschnitten.",
+          "href": "/guide/flipping-is-hard-all-challenges"
+        },
+        {
+          "badge": "Fertigstellung",
+          "title": "Flipping is Hard Erfolge",
+          "description": "Arbeiten Sie die Erfolgsliste mit gruppierten Zählern und gezielten Fertigkeitssitzungen durch.",
+          "href": "/mechanics/flipping-is-hard-all-achievements"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Flipping is Hard?",
+      "paragraphs": [
+        "Flipping is Hard ist ein Präzisionsphysik-Plattformspiel von Elegant Horse Studios. Du steuerst Flippy, ein beinloses Telefon, das sich dreht, durch Vibrationen springt und über zehn surreale Klettergebiete stürzt, auf der Reise zur Wiedervereinigung mit Jeff.",
+        "Jeder Sprung basiert auf Schwung und Timing statt auf einer Gehtaste. Spiele allein mit optionalen Checkpoints im Chill Mode, bringe bis zu 16 Freunde in den Online-Koop, meistere 16 NPC-Herausforderungen, schalte Telefon-Kosmetik und Retro-Minispiele frei oder nutze schnelle Neustarts und integrierte Splits für Speedruns."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Elegant Horse Studios"
+        },
+        {
+          "label": "Herausgeber",
+          "value": "Elegant Horse Studios / Dawn Wood Games"
+        },
+        {
+          "label": "Plattform",
+          "value": "Steam"
+        },
+        {
+          "label": "Veröffentlichungsdatum",
+          "value": "16. Okt. 2026"
+        },
+        {
+          "label": "Genre",
+          "value": "Präzisionsplattformer"
+        },
+        {
+          "label": "Klettergebiete",
+          "value": "10"
+        },
+        {
+          "label": "Koop-Spieler",
+          "value": "16"
+        }
+      ],
+      "cta": "Entdecken Sie alle Leitfäden"
+    },
+    "explore": {
+      "title": "Entdecken Sie Flipping is Hard Wiki",
+      "description": "Meistere reine Rotationsbewegungen, plane jeden Aufstieg, schließe NPC-Herausforderungen ab und schalte Flippys Anpassungsoptionen mit gezielten Flipping is Hard Guides frei.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Flipping is Hard Anfängerleitfaden",
+          "description": "Stellen Sie das grundlegende Gameplay, reine Rotationsbewegungen, Vibrationssprünge, grundlegende Klettertechniken und Möglichkeiten zur Behebung von Fehlern vor. Helfen Sie neuen Spielern, die Schwierigkeit zu verstehen und zu lernen, wie sie durch die surrealen Bereiche des Spiels vorankommen.",
+          "href": "/guide/flipping-is-hard-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Beginnen Sie in Chill Mode und landen Sie zehn neutrale Sprünge auf breiten Plattformen, bevor Sie Rotation hinzufügen."
+            },
+            {
+              "label": "2",
+              "detail": "Fügen Sie einen kurzen Flip nach dem anderen hinzu und beenden Sie den Vorgang mit flachem Telefon, bevor Sie den nächsten Sprung verketten."
+            },
+            {
+              "label": "3",
+              "detail": "Zentrieren Sie die Kameraachse vor dem Start neu, damit ein geneigter Horizont den Startwinkel nicht verzerrt."
+            },
+            {
+              "label": "4",
+              "detail": "Wiederholen Sie eine saubere Route dreimal hintereinander, bevor Sie in den harten Modus wechseln."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Flipping is Hard Level-Komplettlösung",
+          "description": "Geben Sie bereichsweise Fortschrittstipps für die zehn surrealen Klettergebiete und heben Sie schwierige Hindernisse, sichere Landeplätze und häufige Sturzursachen hervor. Organisieren Sie Walkthrough-Inhalte rund um die Level-Layouts im Spiel und die Entdeckungen der Spieler.",
+          "href": "/guide/flipping-is-hard-walkthrough",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Letztes Netz und schwimmendes Holz: Starten Sie es vom Seitenbalken aus und verwenden Sie dann Wall Jump B über die letzte Lücke."
+            },
+            {
+              "label": "A",
+              "detail": "Obere Steigabschnitte: Schräge Wandkontakte und schmale Landungen belohnen ein konsistentes Wall Jump B Timing."
+            },
+            {
+              "label": "B",
+              "detail": "Abschnitte in der Mitte des Laufs: Federsprünge und Ecksprünge erhöhen die erforderliche Höhe oder Distanz, um Lücken zu schließen."
+            },
+            {
+              "label": "C",
+              "detail": "Öffnungsbereiche: Auf breiten Plattformen können Sie neutrale Sprünge und kurze Drehungen bauen, bevor die Route enger wird."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Flipping is Hard Kontrollen und Bewegung",
+          "description": "Erklären Sie das rotationsbasierte Bewegungssystem, Vibrationssprünge, Controller-Unterstützung und praktische Eingabetechniken für präzises Platforming. Fügen Sie anfängerfreundliche Bewegungstipps hinzu, um den Spielern zu helfen, den Schwung zu kontrollieren und unnötige Stürze zu vermeiden.",
+          "href": "/guide/flipping-is-hard-advanced-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "DREHEN",
+              "detail": "Drehen Sie das Telefongehäuse, um Schwung aufzubauen. Flipping is Hard hat keine Geheingabe."
+            },
+            {
+              "label": "SPRINGEN",
+              "detail": "Ein kurzer Vibrationssprung gewinnt an Höhe; Warten Sie die Abklingzeit von etwa einer Viertelsekunde zwischen den Drücken ab."
+            },
+            {
+              "label": "LUFTSPRING",
+              "detail": "Machen Sie einen Sprung in der Luft, um einen Bogen zu erweitern, einen Fehlschuss auszugleichen oder eine Wandberührung umzuwandeln."
+            },
+            {
+              "label": "KAMERA",
+              "detail": "Vor dem Start neu zentrieren und in der Luft steuern; Jeder Kontakt mit einer festen Oberfläche setzt den Sprung zurück."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Flipping is Hard NPC Herausforderungen",
+          "description": "Behandeln Sie die sechzehn NPC Herausforderungen, ihre Ziele, Abschlussstrategien und verfügbaren Belohnungen. Strukturieren Sie jede Herausforderung als separaten Eintrag mit praktischen Lösungen für jeden Bewegungstest.",
+          "href": "/guide/flipping-is-hard-all-challenges",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Standorte",
+              "detail": "Sechzehn NPC Herausforderungen verteilen sich auf die zehn Klettergebiete."
+            },
+            {
+              "label": "Bewegung",
+              "detail": "Bei jeder Herausforderung wird eine bestimmte Fähigkeit getestet, beispielsweise Wandsprünge, Drehungen oder Präzisionslandungen."
+            },
+            {
+              "label": "Belohnungen",
+              "detail": "Challenge-Clears fügen kosmetische Tropfen hinzu und werden in die Flippy’s-Anpassungssammlung eingespeist."
+            },
+            {
+              "label": "Üben",
+              "detail": "Kurze, konzentrierte Wiederholungen sorgen für die Konstanz, die zum Bewältigen der optionalen Herausforderungen erforderlich ist."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Flipping is Hard Koop-Leitfaden",
+          "description": "Erklären Sie, wie Online-Koop funktioniert, wie Freunde schwierige Anstiege koordinieren können und wie interaktive Objekte wie Strahlen und Mikrowellen den Spielern helfen können. Fügen Sie praktische Ratschläge zur Teamarbeit und Informationen zu Proximity-Chat und Multiplayer-Sitzungen hinzu.",
+          "href": "/modes/flipping-is-hard-co-op",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "16 Spieler",
+              "detail": "Online-Koop unterstützt bis zu 16 Spieler in derselben Sitzung."
+            },
+            {
+              "label": "Balken",
+              "detail": "Gemeinsame Balken ermöglichen eine Route oder eine zweite Chance für einen Freund."
+            },
+            {
+              "label": "Mikrowellen",
+              "detail": "Mikrowellen sind ein weiteres Hilfsmittel, um Teamkameraden dabei zu helfen, höher gelegene Gebiete zu erreichen."
+            },
+            {
+              "label": "Nähe",
+              "detail": "Durch den Proximity-Chat bleiben Spieler in der Nähe in Sprachreichweite, während die Gruppe aufsteigt."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Flipping is Hard Freischaltbare Elemente und Anpassungen",
+          "description": "Katalogisieren Sie verfügbare Handyhüllen, Anhänger, Aufkleber, Charakteranpassungsoptionen und freischaltbare Belohnungen. Erklären Sie, wie Sie die einzelnen Gegenstände erhalten und wie NPC Herausforderungsbelohnungen in die Sammlung einfließen.",
+          "href": "/mechanics/flipping-is-hard-all-skins",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fälle",
+              "detail": "Handyhüllen verändern das Aussehen von Flippy, ohne die Bewegung zu beeinträchtigen."
+            },
+            {
+              "label": "Zauber",
+              "detail": "Charms verleihen dem Telefon eine weitere kosmetische Ebene."
+            },
+            {
+              "label": "Aufkleber",
+              "detail": "Aufkleber runden das Telefon-Personalisierungsset ab."
+            },
+            {
+              "label": "Minispiele",
+              "detail": "Freischaltbare klassische Handyspiele bieten über den Aufstieg hinaus optionale Nebeninhalte."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Flipping is Hard Chill Mode und Kontrollpunkte",
+          "description": "Erklären Sie Chill Mode, das Checkpoint-Verhalten und wie sich ein fehlerverzeihenderes Durchspielen von der Standard-Kletterherausforderung unterscheidet. Helfen Sie den Spielern, einen geeigneten Ansatz zu wählen, je nachdem, ob sie den Fortgang der Geschichte, die Erkundung oder das Meistern schwieriger Abschnitte priorisieren.",
+          "href": "/guide/flipping-is-hard-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kühlen",
+              "detail": "Optional Chill Mode ermöglicht Kontrollpunkte und macht den Aufstieg fehlerverzeihender."
+            },
+            {
+              "label": "Hart",
+              "detail": "Beim Standardspiel bleibt die volle Präzisionsherausforderung ohne Kontrollpunkt-Sicherheitsnetz erhalten."
+            },
+            {
+              "label": "Üben",
+              "detail": "Bleiben Sie in Chill Mode, bis eine Route dreimal hintereinander sauber ist."
+            },
+            {
+              "label": "Zurücksetzen",
+              "detail": "Schnelle Neustarts halten wiederholte Versuche kurz, wenn ein Sprung fehlschlägt."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Flipping is Hard Speedrun-Anleitung",
+          "description": "Stellt Speedrun-freundliche Funktionen, schnelle Neustarts, integrierte Splits und Techniken für mehr Konstanz beim Klettern vor. Vergleicht Routenkategorien und teilt zeitsparende Bewegungsstrategien für saubere Runs.",
+          "href": "/modes/flipping-is-hard-speedrun",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lernen Sie die Abklingzeit für kurze Sprünge, damit gepufferte Druckstöße während einer Route nicht verbraucht werden."
+            },
+            {
+              "label": "2",
+              "detail": "Üben Sie neutrale Hochsprünge und Wall Jump B, bis jeder Kontakt wiederholbar ist."
+            },
+            {
+              "label": "3",
+              "detail": "Nutzen Sie schnelle Neustarts und integrierte Splits, um saubere Routenversuche zeitlich festzulegen."
+            },
+            {
+              "label": "4",
+              "detail": "Verkürzen Sie die Erholungszeit, indem Sie in der Luft steuern und feste Oberflächenkontakte verketten."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Flipping is Hard FAQ",
+      "description": "Schnelle Antworten auf häufige Fragen zu Flipping is Hard.",
+      "items": [
+        {
+          "question": "Was ist Flipping is Hard?",
+          "answer": "Flipping is Hard ist ein Präzisionsphysik-Plattformspiel von Elegant Horse Studios. Sie steuern Flippy, ein beinloses Telefon, das sich dreht und durch Vibrationen durch zehn surreale Klettergebiete springt, um sich mit Jeff wieder zu vereinen."
+        },
+        {
+          "question": "Unterstützt Flipping is Hard Koop?",
+          "answer": "Ja. Flipping is Hard unterstützt Online-Koop für bis zu 16 Spieler, mit Proximity-Chat sowie gemeinsamen Strahlen und Mikrowellen, um Teamkollegen beim Klettern zu helfen."
+        },
+        {
+          "question": "Hat Flipping is Hard Kontrollpunkte?",
+          "answer": "Flipping is Hard bietet ein optionales Chill Mode mit aktivierten Prüfpunkten. Beim Standardspiel besteht die volle Herausforderung auch ohne dieses Sicherheitsnetz."
+        },
+        {
+          "question": "Wie lange dauert Flipping is Hard?",
+          "answer": "Ein Durchlauf in Chill Mode dauert etwa 3 bis 6 Stunden. Completionisten berichten von 20 bis 50 Stunden für Herausforderungen, Kosmetik und saubere Runs."
+        },
+        {
+          "question": "Verfügt Flipping is Hard über Speedrun-Tools?",
+          "answer": "Flipping is Hard umfasst schnelle Neustarts und integrierte Splits, sodass Spieler Routen und Zeitläufe ohne externen Timer üben können."
+        },
+        {
+          "question": "Wie viele NPC-Herausforderungen gibt es in Flipping is Hard?",
+          "answer": "Flipping is Hard enthält 16 optionale NPC-Herausforderungen, verteilt über die zehn Klettergebiete."
+        },
+        {
+          "question": "Hat Flipping is Hard Codes?",
+          "answer": "Zu den Flipping is Hard-Codes gehören light_blue, dumb_phone und flippy_the_phone. Öffnen Sie das Menü „Codes“, „Extras“ oder „Einlösen“ im Spiel und geben Sie jede Zeichenfolge genau ein."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Flipping is Hard zu meistern?",
+      "description": "Von der ersten Runde über die härtesten Anstiege bis hin zu Online-Koop-Läufen bietet unser Community-Wiki kostenlose Anleitungen für jede Etappe.",
+      "primary": "Lesen Sie den Flipping is Hard Anfängerleitfaden",
+      "secondary": "Spielen Sie auf Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Flipping is Hard: Leitfäden",
+    "overviewDescription": "Komplettlösungen für Anfänger, Bewegungsübungen, Herausforderungsrouten und Tipps für Fortgeschrittene zum Klettern in jedem Bereich in Flipping is Hard."
+  },
+  "codes": {
+    "overviewTitle": "Flipping is Hard: Codes",
+    "overviewDescription": "Überprüfen Sie die Liste der aktiven Flipping is Hard-Codes und befolgen Sie die Schritte zum Einlösen im Spiel, um verfügbare kosmetische Belohnungen zu erhalten."
+  },
+  "characters": {
+    "overviewTitle": "Flipping is Hard: Charaktere",
+    "overviewDescription": "Treffen Sie Flippy, den Erzähler, Finn und die Entwickler hinter Flipping is Hard, mit Antworten auf häufige Fragen zu Charakteren."
+  },
+  "mechanics": {
+    "overviewTitle": "Flipping is Hard: Mechaniken",
+    "overviewDescription": "Erfahren Sie mehr über Wandsprünge, Münzen, Erfolge, Skins, Geheimnisse, den Streamer-Modus und die Systeme, die jeden Flipping is Hard-Lauf prägen."
+  },
+  "modes": {
+    "overviewTitle": "Flipping is Hard: Spielmodi",
+    "overviewDescription": "Vergleichen Sie Koop-, Mehrspieler-, Speedrun-, Gamedude-Herausforderungen und Details zur Spielerzahl in Flipping is Hard."
+  },
+  "platforms": {
+    "overviewTitle": "Flipping is Hard: Plattformen",
+    "overviewDescription": "Finden Sie Flipping is Hard Veröffentlichungsdatum, Preis, Steam, PS5, Xbox und Informationen zum Demo-Download an einem Ort."
+  },
+  "community": {
+    "overviewTitle": "Flipping is Hard: Community",
+    "overviewDescription": "Verfolgen Sie Flipping is Hard Community-Hubs, Weltrekorde, Reddit- und Discord-Diskussionen und die Beendigung der Berichterstattung."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "noActiveCodes": "Derzeit sind keine aktiven Codes verfügbar",
+    "checkBackSoon": "Schau bald wieder vorbei",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Spielen Sie auf Roblox",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchen Sie Hilfe?",
+    "relatedReading": "Weitere Artikel",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Weiterlesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Anleitungen verfügbar. Schauen Sie bald wieder vorbei!"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Die gesuchte Anleitung wurde möglicherweise verschoben oder noch nicht hinzugefügt.",
+    "browseGuides": "Leitfäden durchsuchen"
+  },
+  "legal": {
+    "about": {
+      "title": "Über uns",
+      "paragraphs": [
+        "Flipping is Hard Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub, der Rotationssteuerung, Levelrouten, NPC-Herausforderungen, Speedruns, Anpassung und Koop-Wissen für neue und erfahrene Spieler gleichermaßen abdeckt.",
+        "Flipping is Hard ist ein Hardcore-Physik-Präzisionsplattformspiel, das von Elegant Horse Studios entwickelt und am 16. Oktober 2026 auf Steam veröffentlicht wurde. Unsere Guides konzentrieren sich auf die reine Rotationsbewegung, 10 Kletterbereiche und den Online-Koop für bis zu 16 Spieler.",
+        "Wir sind nicht mit Elegant Horse Studios, Dawn Wood Games, Steam oder einem offiziellen Flipping is Hard-Kanal verbunden."
+      ]
+    },
+    "privacyPolicy": {
+      "title": "Datenschutzrichtlinie",
+      "paragraphs": [
+        "Dieses unabhängige Fan-Wiki bietet informative Spielanleitungen für Flipping is Hard. Wir fordern keine Steam-Kontoanmeldedaten, Passwörter oder privaten Zahlungsinformationen an.",
+        "Grundlegende Analyse-, Werbe- und Hosting-Anbieter verarbeiten möglicherweise standardmäßige technische Informationen wie Gerätetyp, Browser, ungefähre Region und besuchte Seiten.",
+        "Externe Links können zum offiziellen Steam Store, der Steam Community, YouTube oder anderen Diensten Dritter führen. Für diese Dienste gelten eigene Datenschutzrichtlinien.",
+        "Wir verkaufen keine persönlichen Daten. Wenn Sie Fragen zum Datenschutz haben, wenden Sie sich über die in der Fußzeile angezeigte Support-E-Mail an den Websitebetreiber."
+      ]
+    },
+    "termsOfService": {
+      "title": "Nutzungsbedingungen",
+      "paragraphs": [
+        "Diese Seite ist ein unabhängiger, von Fans erstellter Leitfaden für Flipping is Hard. Die Inhalte werden ausschließlich zu Informations- und Unterhaltungszwecken bereitgestellt.",
+        "Spielsysteme, Steuerung, Level, Herausforderungen und Update-Details können sich ohne Vorankündigung ändern. Überprüfen Sie wichtige Informationen immer im Spiel oder über offizielle Steam-Kanäle.",
+        "Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, sie nicht zu missbrauchen, keinen unbefugten Zugriff zu versuchen oder dieses Fan-Wiki als offizielles Elegant Horse Studios-, Dawn Wood Games- oder Steam-Eigentum darzustellen."
+      ]
+    },
+    "copyright": {
+      "title": "Urheberrecht",
+      "paragraphs": [
+        "Flipping is Hard und zugehörige Medien gehören Elegant Horse Studios, Dawn Wood Games und ihren jeweiligen Eigentümern.",
+        "Dies ist ein unabhängiges, nicht offizielles Fan-Wiki, das zu Informations- und Orientierungszwecken erstellt wurde.",
+        "Spielnamen, Logos, Screenshots und Trailermaterialien bleiben Eigentum ihrer jeweiligen Rechteinhaber. Wenn Sie Rechte an den hier angezeigten Inhalten besitzen und ein Anliegen haben, wenden Sie sich bitte über die Support-E-Mail in der Fußzeile an den Websitebetreiber."
+      ]
+    }
+  },
+  "footer": {
+    "aboutTitle": "Flipping is Hard Wiki",
+    "about": "Flipping is Hard Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Rotationssteuerung, Levelrouten, NPC-Herausforderungen, Speedruns und Online-Koop für neue und erfahrene Spieler.",
+    "quickLinks": "Quicklinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Flipping is Hard Wiki. Nicht mit Elegant Horse Studios oder Dawn Wood Games verbunden.",
+    "description": "Hardcore-Rotations-Physik-Plattformer auf Steam. Solo- und Online-Koop für bis zu 16 Spieler.",
+    "playGame": "Flipping is Hard auf Steam spielen",
+    "officialDiscord": "Steam-Community",
+    "officialYoutube": "Offizieller Trailer",
+    "vvBuilder": "Steam-Shop",
+    "beginnerGuide": "Anfängerleitfaden",
+    "raceGuides": "Rennführer",
+    "bossGuides": "Boss-Guides",
+    "buildGuide": "Bauanleitung",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

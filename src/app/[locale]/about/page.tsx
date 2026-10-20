@@ -1,11 +1,13 @@
 import { LegalPage } from "@/components/legal-page";
+import { getTranslations } from "next-intl/server";
 
-export default function AboutPage() {
+export default async function AboutPage({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "legal.about" });
+  const paragraphs = t.raw("paragraphs") as string[];
   return (
-    <LegalPage title="About">
-      <p>Flipping is Hard Wiki is an independent fan-built guide hub covering rotation controls, level routes, NPC challenges, speedruns, customization, and co-op knowledge for new and veteran players alike.</p>
-      <p>Flipping is Hard is a hardcore physics precision platformer developed by Elegant Horse Studios and released on Steam on October 16, 2026. Our guides focus on its rotation-only movement, 10 climb areas, and online co-op for up to 32 players.</p>
-      <p>We are not affiliated with Elegant Horse Studios, Dawn Wood Games, Steam, or any official Flipping is Hard channel.</p>
+    <LegalPage title={t("title")}>
+      {paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
     </LegalPage>
   );
 }

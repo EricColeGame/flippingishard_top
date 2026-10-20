@@ -34,7 +34,7 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
     name: siteConfig.name,
     alternateName: siteConfig.shortName,
     url: `${siteUrl}/${locale}`,
-    description: siteConfig.description,
+    description: messages.site.description,
     inLanguage: locale,
     publisher: { "@type": "Organization", name: siteConfig.name, url: siteUrl },
   };
