@@ -6,7 +6,17 @@
     "description": "Master Flipping is Hard with beginner guides, controls, level walkthroughs, NPC challenges, speedrun tips, and co-op strategies.",
     "legalNotice": "Independent fan wiki. Not affiliated with Elegant Horse Studios or Dawn Wood Games."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "platforms": "Platforms",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Flipping is Hard Wiki — Controls, Levels, Codes & Co-op Guides",
@@ -409,7 +419,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Flipping is Hard Guides",
+    "overviewDescription": "Beginner walkthroughs, movement drills, challenge routes, and advanced tips for climbing every area in Flipping is Hard."
+  },
+  "codes": {
+    "overviewTitle": "Flipping is Hard Codes",
+    "overviewDescription": "Check the active Flipping is Hard code list and follow the in-game redemption steps for available cosmetic rewards."
+  },
+  "characters": {
+    "overviewTitle": "Flipping is Hard Characters",
+    "overviewDescription": "Meet Flippy, the narrator, Finn, and the developers behind Flipping is Hard, with answers to common character questions."
+  },
+  "mechanics": {
+    "overviewTitle": "Flipping is Hard Mechanics",
+    "overviewDescription": "Learn wall jumps, coins, achievements, skins, secrets, streamer mode, and the systems that shape every Flipping is Hard run."
+  },
+  "modes": {
+    "overviewTitle": "Flipping is Hard Game Modes",
+    "overviewDescription": "Compare co-op, multiplayer, speedrun, Gamedude challenges, and player-count details across Flipping is Hard."
+  },
+  "platforms": {
+    "overviewTitle": "Flipping is Hard Platforms",
+    "overviewDescription": "Find Flipping is Hard release date, price, Steam, PS5, Xbox, and demo download information in one place."
+  },
+  "community": {
+    "overviewTitle": "Flipping is Hard Community",
+    "overviewDescription": "Follow Flipping is Hard community hubs, world records, Reddit and Discord discussions, and ending coverage."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

@@ -1,0 +1,120 @@
+export const metadata = {
+  title: "Flipping is Hard Streamer Mode: Safe Setup for 32-Player Co-op Streams",
+  description: "No built-in Flipping is Hard streamer mode? Build your own: proximity chat safety, audio routing, overlay tips, and a pre-stream checklist.",
+  category: "mechanics",
+  date: "2026-10-20",
+}
+
+## Does Flipping is Hard Actually Have a Streamer Mode?
+
+Flipping is Hard looks harmless — a phone with no legs, one move, and a long climb back to Jeff — but the moment you hit "Go Live," the stakes change. A working **Flipping is Hard streamer mode** setup keeps your chat safe, your audio clean, and your co-op sessions from turning into accidental privacy leaks. That's the whole reason this guide exists: the game's large co-op lobbies and live voice chat make it a surprisingly stream-hostile climb, and there's no single toggle that fixes everything for you.
+
+So let's answer the obvious question first. Based on the game's official store description and the community posts and patch notes we reviewed, there is no documented, dedicated streamer mode toggle in Flipping is Hard as of this writing. What the game does give you is a set of systems that streamers have to manage manually — and once you understand them, building your own **Flipping is Hard streamer mode** workflow takes about fifteen minutes.
+
+| Feature | What a typical streamer mode does | Flipping is Hard status |
+|---|---|---|
+| Hiding player names / IDs | Blurs or replaces usernames on screen | No dedicated option found; handle with overlay masking |
+| Muting other players' voice | Auto-mutes non-party voice chat | Proximity chat is a core feature — mute manually |
+| Hiding friend lists & invites | Suppresses pop-ups | Use platform-level notification settings |
+| Disabling in-game music | Mutes licensed tracks | Narrator and audio cues are core to the experience |
+| Stream delay | Adds a buffer | Handled by your broadcasting software, not the game |
+| Speedrun splits | Hides or shows on demand | Built-in splits exist — position them carefully |
+
+## Why Streaming Flipping is Hard Needs Extra Care
+
+Most punishing platformers are solo experiences. Flipping is Hard isn't. The game supports online co-op for up to 32 players, complete with proximity voice chat, and that combination is the single biggest reason a **Flipping is Hard streamer mode** routine matters.
+
+Think about what proximity chat actually means on a live broadcast: anyone standing near Flippy can be heard by your entire audience in real time. That's up to 31 other microphones feeding into your stream. Some of those people are your friends. Some are strangers from a public lobby. None of them necessarily agreed to be broadcast, and none of them can consent in the two seconds before they say something embarrassing.
+
+There's also the volume problem. Flipping is Hard is, by design, a rage game — "small mistake, big drop" is the pitch. Players scream, laugh, and mic-peak when they fall from height. Without a limiter on your audio chain, one bad fall can blow out your viewers' headphones and clip your VOD beyond repair.
+
+| Risk | Source in-game | Mitigation |
+|---|---|---|
+| Unconsented voices | Proximity chat in co-op | Push-to-talk, party-only lobbies, mute hotkey |
+| Audio clipping | Rage reactions to big drops | Compressor + limiter on the mic track |
+| Spoilers for viewers | Narrator story beats, voicemails | Verbal spoiler warnings, chapter-based segments |
+| Backseating floods | 32-player chaos is watchable chaos | Chat rules and slow mode during climbs |
+| Accidental desktop capture | Alt-tabbing to Discord | Game-capture source only, never display capture |
+
+## Building Your Own Flipping is Hard Streamer Mode: Step by Step
+
+Since the game won't hide anything for you, you build the safety layer around it. Here's the order that works, and none of these steps require touching the game's files.
+
+| Step | Action | Why it matters | Time |
+|---|---|---|---|
+| 1 | Switch to push-to-talk in Discord and any voice app | Stops 31 open mics from entering your broadcast | 2 min |
+| 2 | Set a mute hotkey on your mic track | One keypress kills a leak instantly | 1 min |
+| 3 | Add a 3–5 second stream delay | Gives you a window to cut before something airs | 2 min |
+| 4 | Build a game-capture-only scene | Prevents desktop, DMs, and tabs from appearing | 5 min |
+| 5 | Split audio into mic, game, and voice-chat tracks | Lets you mute one source without killing the others | 5 min |
+| 6 | Insert a compressor and limiter on the mic | Keeps rage peaks broadcast-safe | 3 min |
+| 7 | Disable platform notifications and overlay pop-ups | No friend requests mid-climb | 2 min |
+
+Step 5 is the one streamers skip and later regret. If your co-op partners and your own microphone share a single audio track, muting an unwanted voice also mutes you — which means the moment you need the mute most, you lose your commentary too. Separate tracks solve that permanently.
+
+For the game itself, it's worth checking the official [Flipping is Hard Steam store page](https://store.steampowered.com/app/3826670/) and the community hub before each big stream, since patch notes can shift how voice chat and lobbies behave.
+
+## Audio, Overlay, and Privacy Checklist
+
+A **Flipping is Hard streamer mode** isn't only about muting people. It's also about what your overlay reveals. Speedrun-friendly games like this one encourage showing splits, timers, and attempt counters — all great content, all extra surface area for accidental information.
+
+- **Move splits away from the corner where invite pop-ups appear.** Built-in splits are useful, but they shouldn't overlap system notifications.
+- **Use a plain starting-soon screen.** No desktop, no browser tabs, no file paths.
+- **Name your scenes neutrally.** "Game," "Starting Soon," "BRB" — never anything containing an account name.
+- **Review your VOD before publishing.** A two-minute skim catches stray voices you missed live.
+- **Tell your co-op group you're live.** A one-line message before the session prevents most awkward moments.
+
+| Overlay element | Keep it? | Note |
+|---|---|---|
+| Attempt counter | Yes | Great for a punishing climb; viewers love the number |
+| Split timer | Yes | Built-in and speedrun-friendly |
+| Voice-chat activity indicator | Optional | Helpful but can hint at who's talking |
+| Full-screen webcam | Optional | Consider a smaller frame during chaotic co-op |
+| Chat overlay | Yes | Essential for 32-player lobbies |
+| Desktop preview | Never | Highest-risk element on any stream |
+
+## Flipping is Hard Streamer Mode for Co-op and Speedruns
+
+The two audiences for this game want different things, and your streamer mode should flex accordingly.
+
+**Co-op streams** live or die on voice chat. The chaos of 32 players trying to help each other with Beams and Microwaves — or deliberately not helping — is the content. Rather than muting everyone, curate: play with a known group, keep a mute hotkey ready for pickups, and lean on proximity chat as a bit rather than a hazard. Player experience reports consistently describe the co-op chaos as the funniest part of the game, so don't sterilize it — just control it.
+
+**Speedrun streams** need clean visuals and repeatable resets. Quick restarts and built-in splits are already there; your job is to keep the overlay readable and your mic chain stable across hundreds of attempts. A limiter matters more here than anywhere else, because frustration compounds over a two-hour session.
+
+**Chill Mode streams** are the low-risk option. Checkpoints mean fewer catastrophic falls, which means fewer rage spikes and a calmer audio profile — a good choice for a first broadcast while you dial in your **Flipping is Hard streamer mode** settings.
+
+| Stream type | Voice-chat risk | Audio risk | Recommended setup |
+|---|---|---|---|
+| Solo Chill Mode | None | Low | Game capture, mic limiter, simple overlay |
+| Friends-only co-op | Low | Medium | Push-to-talk, separate tracks, mute hotkey |
+| Public 32-player lobby | High | High | Delay, mute hotkey, party-only preference |
+| Speedrun attempts | None | High | Limiter, compact overlay, split timer |
+
+## Troubleshooting Common Streamer Mode Problems
+
+| Problem | Likely cause | Fix |
+|---|---|---|
+| Viewers hear a stranger talking | Proximity chat with open mic | Push-to-talk plus mute hotkey |
+| Your voice is quiet but reactions are deafening | No compression on mic | Compressor before limiter in the chain |
+| Game audio drowns out commentary | Single combined track | Split game and mic into separate tracks |
+| Splits overlap notifications | Overlay placement | Move splits to the opposite corner |
+| VOD gets flagged or muted | Background audio in the room | Headphones only, no speakers |
+| Stream stutters during co-op | Encoding overload with 32 players | Lower resolution or use hardware encoding |
+
+If a problem persists after these fixes, the community hub and the developers' Discord are the fastest places to confirm whether a patch changed voice-chat behavior. Community reports are usually a day or two ahead of any official documentation.
+
+## FAQ
+
+**Does Flipping is Hard have a built-in streamer mode?**
+Not one that's documented on the store page or in the patch notes we reviewed. Players currently assemble their own **Flipping is Hard streamer mode** using broadcasting software, push-to-talk, and audio routing.
+
+**Can my viewers hear other players in co-op?**
+Yes, if proximity voice chat is active and your microphone or game audio is capturing it. Use push-to-talk and separate audio tracks to control exactly what reaches your audience.
+
+**Is it safe to stream public 32-player lobbies?**
+It's manageable but higher risk. Add a stream delay, keep a mute hotkey under your finger, and tell your lobby that you're live before the session starts.
+
+**What's the single most important setting?**
+Separate audio tracks. Everything else — muting a stranger, cutting your own mic, saving a VOD — becomes possible once your mic, game, and voice chat live on different channels.
+
+Build the setup once, save it as a scene collection, and every future climb back to Jeff gets safer. That's the real **Flipping is Hard streamer mode**: not a menu option, but a routine you control.
