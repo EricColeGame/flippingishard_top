@@ -22,11 +22,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
+  const description = siteConfig.description;
   return {
     metadataBase: new URL(siteUrl),
     applicationName: siteConfig.name,
     title: { default: "Flipping is Hard Wiki", template: "%s" },
-    description: "Master Flipping is Hard with beginner guides, controls, level walkthroughs, NPC challenges, speedrun tips, and co-op strategies.",
+    description,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -39,8 +40,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
     appleWebApp: { capable: true, title: siteConfig.shortName, statusBarStyle: "black-translucent" },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: {
+      type: "website",
+      locale,
+      url: siteUrl,
+      siteName: siteConfig.name,
+      title: "Flipping is Hard Wiki",
+      description,
+      images: [{ url: image, width: 1280, height: 720, alt: `${siteConfig.shortName} official trailer artwork` }],
+    },
+    twitter: { card: "summary_large_image", title: "Flipping is Hard Wiki", description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -55,8 +64,10 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    description: siteConfig.description,
+    logo: { "@type": "ImageObject", url: `${siteUrl}/android-chrome-512x512.png`, width: 512, height: 512 },
+    image: { "@type": "ImageObject", url: `${siteUrl}/images/hero.webp`, width: 1280, height: 720 },
+    sameAs: [siteConfig.gameUrl, siteConfig.social?.steamCommunity, siteConfig.social?.youtube].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

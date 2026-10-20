@@ -2,9 +2,9 @@
   "site": {
     "name": "Flipping is Hard Wiki",
     "shortName": "Flipping is Hard",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to Flipping is Hard on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "tagline": "Guides, Controls, Levels & Co-op Tips",
+    "description": "Master Flipping is Hard with beginner guides, controls, level walkthroughs, NPC challenges, speedrun tips, and co-op strategies.",
+    "legalNotice": "Independent fan wiki. Not affiliated with Elegant Horse Studios or Dawn Wood Games."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete Flipping is Hard guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Flipping is Hard",
-      "description": "Master your restaurant in Flipping is Hard on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Hardcore Physics Precision Platformer",
+      "title": "Flipping is Hard Wiki",
+      "description": "Master rotation-only movement, climb through surreal levels, overcome brutal falls, complete NPC challenges, customize Flippy, and play solo or online with friends.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Released Oct 16, 2026",
+        "10 Climb Areas",
+        "92% Positive Reviews",
+        "32-Player Co-op"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "secondaryCta": "Play on Steam",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Official Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -343,9 +343,9 @@
     },
     "finalCta": {
       "title": "Ready to Master Flipping is Hard?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "description": "From your first rotation to the toughest climbs and online co-op runs, our community wiki has free, up-to-date guides for every stage.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -380,16 +380,16 @@
   },
   "footer": {
     "aboutTitle": "Flipping is Hard Wiki",
-    "about": "Flipping is Hard Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "about": "Flipping is Hard Wiki is an independent fan-built guide hub covering rotation controls, level routes, NPC challenges, speedruns, and online co-op for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Flipping is Hard Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Flipping is Hard",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Flipping is Hard Wiki. Not affiliated with Elegant Horse Studios or Dawn Wood Games.",
+    "description": "Hardcore rotation-based physics platformer on Steam. Solo and online co-op for up to 32 players.",
+    "playGame": "Play Flipping is Hard on Steam",
+    "officialDiscord": "Steam Community",
+    "officialYoutube": "Official Trailer",
+    "vvBuilder": "Steam Store",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
