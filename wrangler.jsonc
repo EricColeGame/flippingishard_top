@@ -1,0 +1,14 @@
+{
+  "name": "flippingishard-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "flippingishard.top",
+      "custom_domain": true
+    }
+  ]
+}
